@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a web application developer using .net (Asp.Net Core) and java (Spring). Now I continue to deepen my knowledge in backend development, and I learn React library.
+I am a web application developer using .net (Asp.Net Core) and java (Spring). I continue to deepen my knowledge in backend development, and I started learning the React library.
 
 You can view my profile here:
 - 📫 www.linkedin.com/in/stanislav-naftolski-866b0121a
